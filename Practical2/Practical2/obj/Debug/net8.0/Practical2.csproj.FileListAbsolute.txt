@@ -1,0 +1,14 @@
+C:\Users\LAKSH\Downloads\Practical2\Practical2\bin\Debug\net8.0\Practical2.exe
+C:\Users\LAKSH\Downloads\Practical2\Practical2\bin\Debug\net8.0\Practical2.deps.json
+C:\Users\LAKSH\Downloads\Practical2\Practical2\bin\Debug\net8.0\Practical2.runtimeconfig.json
+C:\Users\LAKSH\Downloads\Practical2\Practical2\bin\Debug\net8.0\Practical2.dll
+C:\Users\LAKSH\Downloads\Practical2\Practical2\bin\Debug\net8.0\Practical2.pdb
+C:\Users\LAKSH\Downloads\Practical2\Practical2\obj\Debug\net8.0\Practical2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAKSH\Downloads\Practical2\Practical2\obj\Debug\net8.0\Practical2.AssemblyInfoInputs.cache
+C:\Users\LAKSH\Downloads\Practical2\Practical2\obj\Debug\net8.0\Practical2.AssemblyInfo.cs
+C:\Users\LAKSH\Downloads\Practical2\Practical2\obj\Debug\net8.0\Practical2.csproj.CoreCompileInputs.cache
+C:\Users\LAKSH\Downloads\Practical2\Practical2\obj\Debug\net8.0\Practical2.dll
+C:\Users\LAKSH\Downloads\Practical2\Practical2\obj\Debug\net8.0\refint\Practical2.dll
+C:\Users\LAKSH\Downloads\Practical2\Practical2\obj\Debug\net8.0\Practical2.pdb
+C:\Users\LAKSH\Downloads\Practical2\Practical2\obj\Debug\net8.0\Practical2.genruntimeconfig.cache
+C:\Users\LAKSH\Downloads\Practical2\Practical2\obj\Debug\net8.0\ref\Practical2.dll
