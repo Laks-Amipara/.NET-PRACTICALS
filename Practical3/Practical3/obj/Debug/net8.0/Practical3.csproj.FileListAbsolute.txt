@@ -1,0 +1,14 @@
+C:\Users\LAKSH\Downloads\Practical3\Practical3\bin\Debug\net8.0\Practical3.exe
+C:\Users\LAKSH\Downloads\Practical3\Practical3\bin\Debug\net8.0\Practical3.deps.json
+C:\Users\LAKSH\Downloads\Practical3\Practical3\bin\Debug\net8.0\Practical3.runtimeconfig.json
+C:\Users\LAKSH\Downloads\Practical3\Practical3\bin\Debug\net8.0\Practical3.dll
+C:\Users\LAKSH\Downloads\Practical3\Practical3\bin\Debug\net8.0\Practical3.pdb
+C:\Users\LAKSH\Downloads\Practical3\Practical3\obj\Debug\net8.0\Practical3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAKSH\Downloads\Practical3\Practical3\obj\Debug\net8.0\Practical3.AssemblyInfoInputs.cache
+C:\Users\LAKSH\Downloads\Practical3\Practical3\obj\Debug\net8.0\Practical3.AssemblyInfo.cs
+C:\Users\LAKSH\Downloads\Practical3\Practical3\obj\Debug\net8.0\Practical3.csproj.CoreCompileInputs.cache
+C:\Users\LAKSH\Downloads\Practical3\Practical3\obj\Debug\net8.0\Practical3.dll
+C:\Users\LAKSH\Downloads\Practical3\Practical3\obj\Debug\net8.0\refint\Practical3.dll
+C:\Users\LAKSH\Downloads\Practical3\Practical3\obj\Debug\net8.0\Practical3.pdb
+C:\Users\LAKSH\Downloads\Practical3\Practical3\obj\Debug\net8.0\Practical3.genruntimeconfig.cache
+C:\Users\LAKSH\Downloads\Practical3\Practical3\obj\Debug\net8.0\ref\Practical3.dll
